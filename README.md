@@ -12,3 +12,5 @@ Currently, two official plugins are available:
 ![alt text](image.png)
 
 ![alt text](image-1.png)
+
+![image](https://github.com/user-attachments/assets/3f3475a3-a8b3-4521-a41f-b35db6778475)
